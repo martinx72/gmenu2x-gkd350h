@@ -1,4 +1,4 @@
 title=Audio Player
-description=Audio Play supports multiple music format file
+description=Audio Player supports multiple music formats
 icon=skin:icons/gmu.png
 exec=/media/data/local/home/apps/gmu/gmu.dge
